@@ -83,7 +83,7 @@ input[type=number] {
     text-shadow: 0px 0px 3px #000000;
 }
 
-#unit:hover {
+#unit-input:hover {
     font-size: 51px;
     color: #FEFAE0;
     background: #6943FD;
